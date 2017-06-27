@@ -48,6 +48,7 @@ h1 {
   box-sizing: border-box;
   padding: 35px 0;
   text-align: center;
+  cursor: pointer;
 }
 
 #nav-bar #selected-button {
